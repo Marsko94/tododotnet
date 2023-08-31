@@ -1,7 +1,4 @@
-# dotnetTodo
-
-This project was created with [Craftsman](https://github.com/pdevito3/craftsman).
-
+## intro
 ## Getting Started
 1. Run `docker-compose up --build` from your `.sln` directory to spin up your database(s) and other supporting 
 infrastructure depending on your configuration (e.g. RabbitMQ, Keycloak, Jaeger, etc.).
