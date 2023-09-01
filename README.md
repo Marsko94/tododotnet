@@ -17,8 +17,7 @@ infrastructure depending on your configuration (e.g. RabbitMQ, Keycloak, Jaeger,
 ### Running Your Project(s)
 Once you have your database(s) running, you can run your API(s), BFF, and Auth Servers by using 
 the `dotnet run` command or running your project(s) from your IDE of choice.   
-
-### Migrations
+dotnet
 ### Migrations
 Migrations should be applied for you automatically on startup, but if you have any any issues, you can do the following:
     1. Make sure you have a migrations in your boundary project (there should be a `Migrations` directory in the project directory). 
